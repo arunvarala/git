@@ -3,6 +3,7 @@
     "targets": ["1.8.9.2:9103","1.2.3.4:9103","1.8.1.1:9103"],
     "labels": {
         "job": "telegraf"
+	 hhhhhhhhh
      }
 }
 ]
